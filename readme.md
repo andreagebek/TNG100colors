@@ -3,9 +3,9 @@ This repository contains a notebook and some data to reproduce all figures from 
 
 ## Software Requirements
 The notebook includes a more detailed list of required python packages. Most of them are commonly found on astrophysicist devices, with two exceptions:
-illustris_python 1.0.0 (https://github.com/illustristng/illustris_python)\
-ndtest (https://github.com/syrte/ndtest)\
-\
+illustris_python 1.0.0 (https://github.com/illustristng/illustris_python)
+ndtest (https://github.com/syrte/ndtest)
+
 The illustris_python package is needed to read in the TNG subhalo catalogues and must be installed before running the analysis notebook. The ndtest package is required to perform 2D Kolmogorow-Smirnov tests, and is not critical for the results. Hence, the notebook can easily be adapted so that ndtest is not required.
 
 ## Data Requirements
