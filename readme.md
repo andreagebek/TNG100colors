@@ -1,5 +1,5 @@
 # The many colors of the TNG100 simulation
-This repository contains a notebook and some data to reproduce all figures from Gebek et al. 2024, in which we present and analyze broadband fluxes for TNG100 galaxies computed with the 3D dust radiative transfer code SKIRT. Simply sit back, run the analysis notebook, and enjoy! On a decent laptop the whole analysis takes a few minutes.
+This repository contains a notebook and some data to reproduce all figures from Gebek et al. 2024, in which we present and analyze broadband fluxes for TNG100 galaxies computed with the 3D dust radiative transfer code SKIRT. Simply sit back, run the analysis notebook, and enjoy! On a decent laptop the whole analysis takes a few minutes. If you have any questions please reach out to andrea.gebek@ugent.be!
 
 ## Software Requirements
 The notebook includes a more detailed list of required python packages. Most of them are commonly found on astrophysicist devices, with two exceptions:
