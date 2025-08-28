@@ -1,6 +1,6 @@
 # column 0: Wavelength [micron]
 # column 1: Total attenuated SED [Jy]
-# column 2: Primary sources attenuated SED [pc]
+# column 2: Primary sources attenuated SED [Jy]
 # column 3: Primary emission [W/Hz]
 # column 4: Evolved stellar populations emission [W/Hz]
 # 
